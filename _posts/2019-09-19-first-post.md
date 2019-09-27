@@ -12,4 +12,4 @@ Because I wanted to document all of my projects and my journey in the wonderful 
 ~~Isn't this too short for a post?~~
 
 ---
-Thanks to Amit Merchat for the theme on Github.
+Thanks to Amit Merchant for the theme on Github.
