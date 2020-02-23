@@ -4,12 +4,11 @@ title: My first post!
 categories: Miscellaneous
 ---
 
-## This is my first post in my blog.
+## Welcome to the first post of my infrequently updated blog
 
 ### Why did I start this blog?
-Because I wanted to document all of my projects and my journey in the wonderful world of computer science. Here you will find all of the projects I have worked on and also posts on various topics.
+Because I want to document all of my projects and my journey in the wonderful world of computer science and math. Here you will find all of the projects I have worked on and also posts on various topics and ideas.
 
 ~~Isn't this too short for a post?~~
 
 ---
-Thanks to Amit Merchant for the theme on Github.
